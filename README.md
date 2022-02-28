@@ -1,6 +1,6 @@
 ## Project Description
 
-Program that simulates a subset of the MIPS instruction in C. 
+Program that simulates a subset of the MIPS instruction set in C. 
 
 ### Supported Instructions
 
