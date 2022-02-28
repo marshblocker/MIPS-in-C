@@ -1,7 +1,6 @@
 ## Project Description
 
-My submission for project 1 of CS 21. We are tasked to simulate a subset of the
-MIPS instruction in C. 
+Program that simulates a subset of the MIPS instruction in C. 
 
 ### Supported Instructions
 
